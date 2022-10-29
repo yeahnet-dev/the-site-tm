@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'ROG';
+    src: url('fonts/ROGFonts-Regular.otf');
+  }
+  .ROG_header {
+    font-family: ROG;
+    font-size: 50px;
+    font-style: italic;
+  }
+
+  body{
+      color: white;
+  }
+
+@font-face {
+    font-family: 'Minecraft_Regular';
+    src: url('fonts/1_MINECRAFT-REGULAR.OTF')
+  }
+@font-face {
+    font-family: 'Minecraft_Italic';
+    src: url('fonts/1_MINECRAFT-ITALIC.OTF')
+  }
+@font-face {
+    font-family: 'Minecraft_Bold';
+    src: url('fonts/1_MINECRAFT-BOLD.OTF')
+  }
+@font-face {
+    font-family: 'Minecraft_BoldItalic';
+    src: url('fonts/1_MINECRAFT-BOLDITALIC.OTF')
+  }
+@font-face {
+    font-family: ZCOOL;
+    src: url('fonts/ZCOOLQingKeHuangYou-Regular.ttf');
+  }
+@font-face {
+    font-family:Oxanium;
+    src: url('fonts/Oxanium-VariableFont_wght.ttf');
+  }
+@font-face {
+    font-family:ComicSans;
+    src: url('fonts/comic.ttf');
+}
